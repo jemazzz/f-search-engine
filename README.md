@@ -37,35 +37,28 @@ lein deps
 
 lein run
 
-Access the UI:
 
-Open your web browser and go to http://localhost:3000 to access the user interface.
+### Access the UI
+Open your web browser and go to `http://localhost:3000` to access the user interface
 
-
-Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the flight ticket search engine, please follow our Contribution Guidelines.
 
-Issues and Feedback
+## Issues and Feedback
 
 At the moment, the program cannot gracefully handle invalid inputs (such as non-existent cities or negative budget values) or missing fields in the dataset.
 
-References
+## References
 
-Higginbotham, D. (2015). Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer. No Starch Press. ISBN: 9781593275914. Url: https://books.google.cz/books?id=mQLPCgAAQBAJ
-
-Meier, C. (2015). Living Clojure: An Introduction and Training Plan for Developers. O’Reilly Media. ISBN: 9781491909294. URL: https://books.google.cz/books?id=b4odCAAAQBAJ.
-
-McDonnell, M. (2017). Quick Clojure. Effective Functional Programming. ISBN: 9781484229521. URL: https://rb.gy/wmvbfh
-
-Karumanchi, N. (2011). Data Structures and Algorithms Made Easy: Data Structure and Algorithmic Puzzles. CareerMonk Publications. ISBN: 9780615459813. URL: https://books.google.cz/books?id=FPIznwEACAAJ
-
-Rathore, A. (2015). Clojure in Action. ISBN: 9781638355335. URL: https://rb.gy/esew7a
-
-Naccache, R. (2015). Clojure Data Structures and Algorithms Cookbook. ISBN: 9781785287824. URL: https://rb.gy/eipm95
+- Higginbotham, D. (2015). _Clojure for the Brave and True_. No Starch Press. [ISBN: 9781593275914](https://books.google.cz/books?id=mQLPCgAAQBAJ)
+- Meier, C. (2015). _Living Clojure: An Introduction and Training Plan for Developers_. O’Reilly Media. [ISBN: 9781491909294](https://books.google.cz/books?id=b4odCAAAQBAJ)
+- McDonnell, M. (2017). Quick Clojure. Effective Functional Programming. ISBN: 9781484229521. URL: https://rb.gy/wmvbfh
+- Karumanchi, N. (2011). Data Structures and Algorithms Made Easy: Data Structure and Algorithmic Puzzles. CareerMonk Publications. ISBN: 9780615459813. URL: https://books.google.cz/books?id=FPIznwEACAAJ
+- Rathore, A. (2015). Clojure in Action. ISBN: 9781638355335. URL: https://rb.gy/esew7a
+- Naccache, R. (2015). Clojure Data Structures and Algorithms Cookbook. ISBN: 9781785287824. URL: https://rb.gy/eipm95
 
 
-License
+## License
 
-This is academic work done under free license
-
+This is academic work done under a free license.
