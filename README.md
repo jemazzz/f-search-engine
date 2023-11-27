@@ -4,13 +4,21 @@ Overview
 
 Welcome to the Flight Ticket Search Engine, an advanced tool created to assist users in finding customized and cost-effective travel itineraries. This application, built using the Clojure programming language, is designed to meet the varied requirements of our customers. It provides a smooth and effective method for locating the ideal flight schedule.
 
+
 Features
+
 Personalized Search: Enter precise parameters such as the city of departure, desired destination, and relevant passenger information to customize your trip arrangements.
+
 Budget-Conscious Options: Find travel arrangements that are in line with your financial limitations, guaranteeing cost-effectiveness.
+
 Connection Constraints: Discover flights that align with your desired number of connections to enhance your trip journey with greater ease and convenience.
+
 Sorting by Total Price: Search results are arranged in descending order based on the total price, giving priority to solutions that are more expensive but perhaps more convenient.
+
 Interactive User Interface: Experience a seamless search process with a UI that is both user-friendly and interactive.
+
 Customer Feedback Loop: We value your input! The search engine continuously evolves based on your feedback, ensuring a platform that meets your expectations.
+
 
 Technical Overview
 The aircraft ticket search engine is constructed using a micro services architecture, making use of the functional programming features of Clojure. The search algorithm employs a Depth-First Search (DFS) methodology to uncover travel itineraries, taking into account budgetary and connectivity limitations for various categories of passengers.
