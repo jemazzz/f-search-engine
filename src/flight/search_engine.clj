@@ -1,4 +1,4 @@
-(ns ica.ica1
+(ns flight.search-engine
       (:require [clojure.string :as str]))
 
   ; Define a map of available flights where each key is a vector representing a route
