@@ -1,9 +1,7 @@
-Flight Ticket Search Engine
+# Flight Ticket Search Engine
 
-Overview
-
+## Overview
 Welcome to the Flight Ticket Search Engine, an advanced tool created to assist users in finding customized and cost-effective travel itineraries. This application, built using the Clojure programming language, is designed to meet the varied requirements of our customers. It provides a smooth and effective method for locating the ideal flight schedule.
-
 
 
 Features
