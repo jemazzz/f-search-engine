@@ -39,7 +39,7 @@ lein run
 
 
 ### Access the UI
-Open your web browser and go to `http://localhost:3000` to access the user interface
+Open your web browser and go to `src/flight/search_engine.clj` to access the user interface
 
 ## Contributing
 
