@@ -1,6 +1,7 @@
 (ns flight.search-engine
       (:require [clojure.string :as str]))
 
+
   ; Define a map of available flights where each key is a vector representing a route
   ; from a departure city to a destination city, and each value is a map with the price
   ; and number of connections for that flight.
@@ -227,7 +228,7 @@
 (defn -main
   "The main function that ties everything together in the travel application."
   [& [input]]
-  (let [input-string (or input "Prague,Berlin,f")]
+  (let [input-string (or input "Vienna,Berlin,g")]
     ; Parse and validate the input
     (when-let [[departure destination type] (parse-and-validate-input input-string)]
       (let [; Find feasible travel plans based on the criteria
